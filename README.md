@@ -1,4 +1,4 @@
 # my-first-repos
-this is my first class of git and github
+This is my first class of Git&GitHub
 <br>
-class--> cyber and ai/ml
+Class--> Cyber and AI/ML
